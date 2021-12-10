@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathClient", "MathClient\MathClient.vcxproj", "{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Debug|x64.ActiveCfg = Debug|x64
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Debug|x64.Build.0 = Debug|x64
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Debug|x86.ActiveCfg = Debug|Win32
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Debug|x86.Build.0 = Debug|Win32
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Release|x64.ActiveCfg = Release|x64
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Release|x64.Build.0 = Release|x64
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Release|x86.ActiveCfg = Release|Win32
+		{1499F5A2-CCFC-45A6-80E4-6741EDAF4D76}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0B1B50-F2E9-4469-A7D1-965228E16F05}
+	EndGlobalSection
+EndGlobal
